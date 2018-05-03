@@ -1,0 +1,3 @@
+[submodule "asm-bytecode-intellij"]
+	path = asm-bytecode-intellij
+	url = git@github.com:demiurg906/asm-bytecode-intellij.git
